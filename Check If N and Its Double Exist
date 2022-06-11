@@ -1,4 +1,4 @@
-```java
+
 class Solution {
     public boolean checkIfExist(int[] arr) {
             int b[]=new int[arr.length];
